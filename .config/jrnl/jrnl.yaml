@@ -13,6 +13,6 @@ journals:
   default: /home/alexander/Documents/jrnl/journal.txt
 linewrap: 79
 tagsymbols: '@'
-template: false
+template: /home/alexander/.config/jrnl/template.txt
 timeformat: '%Y-%m-%d %H:%M'
 version: v2.4.5
